@@ -63,5 +63,7 @@
     "webpack-stream": "^4.0.0",
     "whatwg-fetch": "^1.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "contentful-hugo": "^1.5.0"
+  }
 }
